@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kschoudary2 - Subbaiah Choudary Kotha
+- 👋 Hi, I’m Subbaiah Choudary Kotha  (GitHub User ID: @kschoudary2 ).
 - 👀 I’m interested in emerging technologies like AI/ML and using them on the business applications that improves customer satisfaction.
 - 🌱 I’m currently learning MS Power Apps, to develop a POC to display SAP data in MS Teams via MS Power Apps.
 - 💞️ I’m looking to collaborate on ...
